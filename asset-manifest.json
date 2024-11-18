@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/tictac/static/css/main.f855e6bc.css",
-    "main.js": "/tictac/static/js/main.6a629ef6.js",
-    "static/js/453.b57d759f.chunk.js": "/tictac/static/js/453.b57d759f.chunk.js",
-    "static/media/logo.svg": "/tictac/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/tictac/static/css/main.1208bd82.css",
+    "main.js": "/tictac/static/js/main.8b493897.js",
     "index.html": "/tictac/index.html",
-    "main.f855e6bc.css.map": "/tictac/static/css/main.f855e6bc.css.map",
-    "main.6a629ef6.js.map": "/tictac/static/js/main.6a629ef6.js.map",
-    "453.b57d759f.chunk.js.map": "/tictac/static/js/453.b57d759f.chunk.js.map"
+    "main.1208bd82.css.map": "/tictac/static/css/main.1208bd82.css.map",
+    "main.8b493897.js.map": "/tictac/static/js/main.8b493897.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.6a629ef6.js"
+    "static/css/main.1208bd82.css",
+    "static/js/main.8b493897.js"
   ]
 }
